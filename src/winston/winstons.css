@@ -1,0 +1,187 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+.home h4{
+    padding-left: 80px;
+    padding-top: 40px;
+    text-transform: capitalize;
+}
+.container{
+    width: 1160px;
+    height: 140vh;
+    margin: 6% auto;
+    display: flex;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+.first-container{
+    width: 350px;
+}
+.you{
+    background: lightblue;
+    height: 20%;
+    padding-left: 40px;
+    padding-top: 40px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.you::after{
+    content: "";
+    position: absolute;
+    top: 12rem;
+    left: 5rem;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(#fff, #000);
+}
+.me{
+    height: 80%;
+     background: whitesmoke;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.me h3{
+    padding-bottom: 10;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.me h6{
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.me h5{
+    padding-bottom: 10px;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.second-container{
+    width: 1110px;
+    background-color: beige;
+}
+.second-container header{
+    background-color: aqua;
+    display: flex;
+    padding-left: 40px;
+    height: 35px;
+}
+.second-container header h5{
+    font-size: 20px;
+    padding-right: 10px;
+    padding-top: 7PX;
+    text-transform: capitalize;
+}
+.second-container header p{
+    font-size: 15px;
+   padding-top: 10PX;
+}
+.t-boy{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    text-transform: capitalize;
+}
+.t-boy h3{
+    font-size: 20px;
+}
+.t-boy p{
+    font-size: 15px;
+}
+.list-items{
+    display: flex;
+    padding-left: 40px;
+}
+.arinze{
+    padding-right: 50px;
+    border-radius: 2rem;
+}
+.one{
+    background: paleturquoise;
+    height: 70px;
+    width: 170px;
+    text-align: center;
+    padding-top: 30px;
+    text-transform: capitalize;
+}
+.two{
+    height: 60px;
+    width: 170px;
+    text-align: left;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    padding-left: 10px;
+}
+.two td{
+    padding-right: 60px;
+    line-height: 22PX;
+    font-size: 15PX;
+    text-transform: capitalize;
+}
+.center-line{
+    border: 1px slategray solid;
+    margin-left: 40px;
+    margin-right: 90px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.last{
+    display: flex;
+}
+.ij{
+    margin-left: 40px;
+}
+.ij header{
+    border: 2px lightgrey solid;
+    background: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+   
+} 
+.ij header ul{
+    display: flex;
+    font-size: 15px;
+    list-style: none;
+
+}
+.ij header ul li{
+    padding-right: 8px;
+    text-transform: capitalize;
+
+}
+#under{
+    color: orange;
+    border-bottom: 2px orange solid;
+}
+.arthur{
+    padding-left: 50px;
+    width: 420px;
+}
+.last-line{
+    border: 1px slategrey solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+
+}
+.nene h2{
+    margin-bottom: 20px;
+    margin-right: 15px;
+    text-transform: capitalize;
+    font-size: 18px;
+
+}
+.nene h6{
+    margin-bottom: 14px;
+    margin-right: 15px;
+    color: orangered;
+    
+}
+.nene p{
+    font-size: 15px;
+    color: powderblue;
+} */

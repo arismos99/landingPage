@@ -1,0 +1,149 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+.flow-section{
+    width: 1160px;
+    height: 140vh;
+    margin: 6% auto;
+    border-radius: 20px;
+    background-color: gray;
+    position: relative;
+    overflow: hidden;
+}
+.flow-container{
+    width: 960px;
+    height: 100vh;
+    margin: 4% auto;
+    position: relative;
+    top: 60px;
+    overflow: hidden;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    
+}
+.flow-first{
+    width: 60%;
+    background-color: lightpink;
+}
+.flow-container h3{
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 60px;
+    font-size: 30px;
+}
+.flow-container h3 span{
+    display: block;
+    color: lightcoral;
+}
+.flow-first img{
+    width: 100%;
+    height: 360px;
+    margin-top: 70px;
+    margin-bottom: 0;
+    border-radius: 100px 10px;
+    -webkit-border-radius: 100px 10px;
+    -moz-border-radius: 100px 10px;
+    -ms-border-radius: 100px 10px;
+    -o-border-radius: 100px 10px;
+}
+.flow-second{
+    width: 120%;
+    background-color: white;
+    overflow: hidden;
+    padding-left: 30px;
+    padding-left: 90px;
+   
+}
+.navbar h4{
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 30px;
+}
+.navbar h4::after{
+    content: "";
+    position: absolute;
+    top: 22px;
+    left: 23rem;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: linear-gradient(#ff469f, #ff3527);
+}
+.navbar h5{
+    font-size: 15px;
+    padding: 10px;
+}
+.navbar ol{
+    padding-left: 20px;
+}
+.navbar ol li{
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    font-size: 12px;
+
+}
+.flow-form{
+    display: flex;
+    width: 83%; 
+    background: #fff;
+    justify-content: space-between;
+    
+}
+.flow-form li{
+    display: block;
+    padding: 9px;
+    border: 1px solid #dddddd;
+    margin-bottom: 30px;
+    border-radius: 4px;
+}
+.flow-form li > label{
+    display: block;
+     float: left;
+     margin-top: -19px;
+     background: #ffffff;
+     height: 14px;
+     padding: 2px 5px 2px 5px;
+     color: #b9b9b9;
+     font-size: 14px;
+     overflow: hidden;
+
+}
+.flow-form input{
+    box-sizing: border-box;
+    width: 110px;
+    display: block;
+    outline: none;
+    border: none;
+    height: 20px;
+
+
+}
+
+.flow-footer label{
+    font-size: 15px;
+    padding: 10px;
+    margin-bottom: 2rem;
+    
+}
+.flow-footer button{
+    display: block;
+    margin-top: 10px;
+    font-size: 20px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background: #ff469f;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+.flow-footer p{
+    margin-bottom: 1rem;
+}
+.flow-footer a{
+    text-decoration: none;
+} */
